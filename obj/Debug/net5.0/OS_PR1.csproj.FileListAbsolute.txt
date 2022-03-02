@@ -1,0 +1,16 @@
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\bin\Debug\net5.0\OS_PR1.exe
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\bin\Debug\net5.0\OS_PR1.deps.json
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\bin\Debug\net5.0\OS_PR1.runtimeconfig.json
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\bin\Debug\net5.0\OS_PR1.runtimeconfig.dev.json
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\bin\Debug\net5.0\OS_PR1.dll
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\bin\Debug\net5.0\ref\OS_PR1.dll
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\bin\Debug\net5.0\OS_PR1.pdb
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\obj\Debug\net5.0\OS_PR1.csproj.AssemblyReference.cache
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\obj\Debug\net5.0\OS_PR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\obj\Debug\net5.0\OS_PR1.AssemblyInfoInputs.cache
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\obj\Debug\net5.0\OS_PR1.AssemblyInfo.cs
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\obj\Debug\net5.0\OS_PR1.csproj.CoreCompileInputs.cache
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\obj\Debug\net5.0\OS_PR1.dll
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\obj\Debug\net5.0\ref\OS_PR1.dll
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\obj\Debug\net5.0\OS_PR1.pdb
+C:\Users\x_sky\Desktop\Новая папка (5)\Druzhinin_Alexander_OS\PR1\obj\Debug\net5.0\OS_PR1.genruntimeconfig.cache
